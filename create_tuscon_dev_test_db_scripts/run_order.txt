@@ -1,0 +1,6 @@
+1. Login to the postgres server, and as superuser run "1 - create_role_tuscon.sql".
+2. Once step 1 is ran, run "2 - create_database_tuscon.sql".
+3. Run "3 - create_schema_tuscon_dev.sql".
+4. Run "4 - create_schema_tuscon_test.sql".
+5. Run all scripts in "5 - tuscon_dev" once.
+6. Run all scripts in "6 - tuscon_test" once.
